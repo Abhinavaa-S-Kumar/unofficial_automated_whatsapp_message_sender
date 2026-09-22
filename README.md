@@ -1,4 +1,4 @@
-# 💬 WhatsApp Bulk Message Sender
+# 💬 Unofficial WhatsApp message sender
 
 A sleek, feature-rich desktop application that automates sending bulk messages on WhatsApp. Built with Python and Tkinter, it provides a modern dark-themed GUI with support for WhatsApp Desktop and WhatsApp Web, emoji insertion, message scheduling, and real-time progress tracking.
 
